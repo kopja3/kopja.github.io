@@ -2,9 +2,10 @@
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
+### Researcher: High-Quality Publications 
+I have authored three high-quality publications as the lead author, all related to my dissertation topic. [View my dissertation topic](assets/dissertation2.jpg). 
+These publications present innovative methods I developed, solving previously unsolved problems and advancing the field significantly. The methods are a result of dedicated work and have gained recognition from the research community.
+[My Dissertation](/sample_page)
 <img src="images/MachineVisionProGradu.jpg?raw=true"/>
 
 ---
