@@ -55,7 +55,7 @@ Teaching skills:
 
 ---
 ### Skills I Have in List Format
-- [Skills] (https://github.com/kopja3/portfolio/blob/main/taidot.md)
+- [Skills](https://github.com/kopja3/portfolio/blob/main/taidot.md)
 
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
