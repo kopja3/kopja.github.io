@@ -3,13 +3,15 @@
 ---
 
 ### Researcher: 
-High-Quality Publication Skills: 
+#### High-Quality Publication Skills: 
 I have authored three high-quality publications as the lead author, all related to my dissertation topic. 
 These publications present innovative methods I developed, solving previously unsolved problems and advancing the field significantly. The methods are a result of dedicated work and have gained recognition from the research community.
 [My Dissertation](/sample_page)
 <img src="images/dissertation2(1).jpg?raw=true"/>
 
-### Research skills:
+#### Research skills:
+
+---
 
 #### Teaching skills:
 - [Trainer: Global Automation Industry ](https://github.com/kopja3/portfolio/blob/main/ACTTrainer.md)
@@ -17,7 +19,7 @@ These publications present innovative methods I developed, solving previously un
 
 
 ---
-### Publications
+#### Publications
 
 - [Text Recognition of Cardboard Pharmaceutical Packages by Utilizing Machine Vision - Publisher: Electronic Imaging](pdf/Text_Recognition_of_Cardboard_Pharmaceutical_Packages_by_Utilizing_Machine_Vision.pdf)
   
@@ -26,8 +28,7 @@ These publications present innovative methods I developed, solving previously un
 - [A Novel Deep Learning Method for Recognizing Texts Printed with Multiple Different Printing Methods - Publisher: F1000 Forum](pdf/A_novel_deep_learning_method_for_recognizing_texts_printed_with_multiple_different_printing_methods.pdf)
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- [Societal and University Community Merits](https://github.com/kopja3/portfolio/blob/main/Social_University_community_merits.md)
 
 ---
 
