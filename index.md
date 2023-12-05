@@ -12,7 +12,7 @@ These publications present innovative methods I developed, solving previously un
 Research skills:
 
 Teaching skills:
-- [Trainer: Global Automation Industry ](ACTTrainer.md)
+- [Trainer: Global Automation Industry ](https://github.com/kopja3/portfolio/blob/main/ACTTrainer.md)
 - [Project 5 Title](http://example.com/)
 
 
@@ -27,16 +27,16 @@ Teaching skills:
 ---
 
 ### Global Automation Solutions Developer
-- [Elemental Analyzer Turn Key Development Project Manager](ProjectModelDevelopmentProjectManager.md/)
-- [Machine Vision R&D ](MachineVisionRD.md)
-- [SensorDevelopmentSpecialist](SensorDevelopmentSpecialist.md)
+- [Elemental Analyzer Turn Key Development Project Manager](https://github.com/kopja3/portfolio/blob/main/ProjectModelDevelopmentProjectManager.md/)
+- [Machine Vision R&D ](https://github.com/kopja3/portfolio/blob/main/MachineVisionRD.md)
+- [SensorDevelopmentSpecialist](https://github.com/kopja3/portfolio/blob/main/SensorDevelopmentSpecialist.md)
 
 ---
 
 ### Management Skills Global Automation Industry 
 - [SAPImplementationLead](SAPImplementationLead.md)
-- [OEM Camera System WIS Production, Applications, Techical Support](https://github.com/kopja3/portfolio/blob/main/WISLeadEngineer.md)
-- [Camera System WIS Delivery Manager](WISDeliveryManager.md)
+- [OEM Camera System WIS Production, Applications, Technical Support](https://github.com/kopja3/portfolio/blob/main/WISLeadEngineer.md)
+- [Camera System WIS Delivery Manager](https://github.com/kopja3/portfolio/blob/main/WISDeliveryManager.md)
 - [Project 5 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
@@ -52,6 +52,11 @@ Teaching skills:
 ### Electrical Designer & Electrician Skills 
 - [Camera System WIS Electrical Designer] (WISelectricalDesigner.md)
 - [Electrician](Electrician.md)
+
+---
+### Skills I Have in List Format
+- [Skills] (https://github.com/kopja3/portfolio/blob/main/taidot.md)
+- 
 
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
