@@ -28,6 +28,8 @@ These publications present innovative methods I developed, solving previously un
 - [A Novel Deep Learning Method for Recognizing Texts Printed with Multiple Different Printing Methods - Publisher: F1000 Forum](pdf/A_novel_deep_learning_method_for_recognizing_texts_printed_with_multiple_different_printing_methods.pdf)
 
 ---
+#### Community Engagement and Leadership Skills:
+
 - [Societal and University Community Merits](https://github.com/kopja3/portfolio/blob/main/Social_University_community_merits.md)
 
 ---
