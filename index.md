@@ -34,7 +34,7 @@ Teaching skills:
 ---
 
 ### Management Skills Global Automation Industry 
-- [SAPImplementationLead](SAPImplementationLead.md)
+- [SAPImplementationLead](https://github.com/kopja3/portfolio/blob/main/SAPImplementationLead.md)
 - [OEM Camera System WIS Production, Applications, Technical Support](https://github.com/kopja3/portfolio/blob/main/WISLeadEngineer.md)
 - [Camera System WIS Delivery Manager](https://github.com/kopja3/portfolio/blob/main/WISDeliveryManager.md)
 - [Project 5 Title](http://example.com/)
@@ -44,13 +44,13 @@ Teaching skills:
 
 ---
 ### Technical Support Skills Global Automation Industry 
-- [Outotec ACT Technical Support Engineer](taidot.md)
-- [Camera System WIS Field Support Engineer](WISFieldSupportEngineer.md)
+- [Outotec ACT Technical Support Engineer](https://github.com/kopja3/portfolio/blob/main/ACTTechnicalSupportEngineer.md)
+- [Camera System WIS Field Support Engineer](https://github.com/kopja3/portfolio/blob/main/WISFieldSupportEngineer.md)
 - [Project 5 Title](http://example.com/)
 
 ---
 ### Electrical Designer & Electrician Skills 
-- [Camera System WIS Electrical Designer] (https://github.com/kopja3/portfolio/blob/main/WISelectricalDesigner.md)
+- [Camera System WIS Electrical Designer](https://github.com/kopja3/portfolio/blob/main/WISelectricalDesigner.md)
 - [Electrician](https://github.com/kopja3/portfolio/blob/main/Electrician.md)
 
 ---
