@@ -1,6 +1,6 @@
 title: Jarmo Koponen # your name (or website title) here
 logo: "images/Jarmo_.png?raw=true" # your photo (or logo) here
-description: "Doctoral Researcher<br><br>Contact Information:<br><br>Email: jarkop@uef.fi<br>Phone: +358 40 6311796<br><a href='https://www.linkedin.com/in/koponenjarmo/'>View My LinkedIn Profile</a>"
+description: "Doctoral Researcher<br><br>Contact Information:<br><br>Email: <a href='mailto:jarkop@uef.fi'>jarkop@uef.fi</a><br>Phone: +358 40 6311796<br><a href='https://www.linkedin.com/in/koponenjarmo/'>View My LinkedIn Profile</a>"
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
