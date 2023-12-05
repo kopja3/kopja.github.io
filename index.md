@@ -50,13 +50,12 @@ Teaching skills:
 
 ---
 ### Electrical Designer & Electrician Skills 
-- [Camera System WIS Electrical Designer] (WISelectricalDesigner.md)
-- [Electrician](Electrician.md)
+- [Camera System WIS Electrical Designer] (https://github.com/kopja3/portfolio/blob/main/WISelectricalDesigner.md)
+- [Electrician](https://github.com/kopja3/portfolio/blob/main/Electrician.md)
 
 ---
 ### Skills I Have in List Format
 - [Skills] (https://github.com/kopja3/portfolio/blob/main/taidot.md)
-- 
 
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
