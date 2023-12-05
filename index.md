@@ -17,7 +17,7 @@ Teaching skills:
 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Title](pdf/Text Recognition of Cardboard Pharmaceutical Packages by Utilizing Machine Vision.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
