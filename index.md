@@ -20,7 +20,9 @@ Teaching skills:
 ### Publications
 
 - [Text Recognition of Cardboard Pharmaceutical Packages by Utilizing Machine Vision - Publisher: Electronic Imaging](pdf/Text_Recognition_of_Cardboard_Pharmaceutical_Packages_by_Utilizing_Machine_Vision.pdf)
+  
 - [Recent Advancements in Machine Vision Methods for Product Code Recognition - Publisher: F1000 Forum](pdf/Recent_advancements_in_machine_vision_methods_for_product_code_recognition.pdf)
+  
 - [A Novel Deep Learning Method for Recognizing Texts Printed with Multiple Different Printing Methods - Publisher: F1000 Forum](pdf/A_novel_deep_learning_method_for_recognizing_texts_printed_with_multiple_different_printing_methods.pdf)
 
 ---
