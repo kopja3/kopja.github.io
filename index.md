@@ -18,7 +18,7 @@ Teaching skills:
 
 ---
 ### Publications
-<img src="pdf/Text Recognition of Cardboard Pharmaceutical Packages by Utilizing Machine Vision.pdf?raw=true"/>
+<img src="pdf/Text_Recognition_of_Cardboard_Pharmaceutical_Packages_by_Utilizing_Machine_Vision.pdf"/>
 
 ---
 [Project 3 Title](http://example.com/)
