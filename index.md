@@ -18,8 +18,6 @@ Teaching skills:
 
 ---
 ### Publications
-### Publications
-
 <!-- Julkaisu 1 -->
 <a href="pdf/Text_Recognition_of_Cardboard_Pharmaceutical_Packages_by_Utilizing_Machine_Vision.pdf">
     <img src="images/Text_Recognition_of_Cardboard_Pharmaceutical_Packages_by_Utilizing_Machine_Vision_1.jpg" alt="PDF esikatselu" class="img-small">
