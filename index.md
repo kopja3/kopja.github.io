@@ -37,35 +37,33 @@ These publications present innovative methods I developed, solving previously un
 
 ---
 
-### Global Automation Solutions Developer
+#### Global Automation Solutions Developer
 - [Elemental Analyzer Turn Key Development Project Manager](https://github.com/kopja3/portfolio/blob/main/ProjectModelDevelopmentProjectManager.md/)
 - [Machine Vision R&D ](https://github.com/kopja3/portfolio/blob/main/MachineVisionRD.md)
 - [SensorDevelopmentSpecialist](https://github.com/kopja3/portfolio/blob/main/SensorDevelopmentSpecialist.md)
 
 ---
 
-### Management Skills Global Automation Industry 
+#### Management Skills Global Automation Industry 
 - [SAPImplementationLead](https://github.com/kopja3/portfolio/blob/main/SAPImplementationLead.md)
 - [OEM Camera System WIS Production, Applications, Technical Support](https://github.com/kopja3/portfolio/blob/main/WISLeadEngineer.md)
 - [Camera System WIS Delivery Manager](https://github.com/kopja3/portfolio/blob/main/WISDeliveryManager.md)
-- [Project 5 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
-
 
 ---
-### Technical Support Skills Global Automation Industry 
+
+#### Technical Support Skills Global Automation Industry 
 - [Outotec ACT Technical Support Engineer](https://github.com/kopja3/portfolio/blob/main/ACTTechnicalSupportEngineer.md)
 - [Camera System WIS Field Support Engineer](https://github.com/kopja3/portfolio/blob/main/WISFieldSupportEngineer.md)
-- [Project 5 Title](http://example.com/)
 
 ---
-### Electrical Designer & Electrician Skills 
+
+#### Electrical Designer & Electrician Skills 
 - [Camera System WIS Electrical Designer](https://github.com/kopja3/portfolio/blob/main/WISelectricalDesigner.md)
 - [Electrician](https://github.com/kopja3/portfolio/blob/main/Electrician.md)
 
 ---
-### Skills I Have in List Format
+
+#### Skills I Have in List Format
 - [Skills](https://github.com/kopja3/portfolio/blob/main/taidot.md)
 
 
