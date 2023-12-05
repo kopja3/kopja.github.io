@@ -13,7 +13,7 @@ Research skills:
 
 Teaching skills:
 - [Trainer: Global Automation Industry ](https://github.com/kopja3/portfolio/blob/main/ACTTrainer.md)
-- [Project 5 Title](http://example.com/)
+- [Teacher and mentor at the University](https://github.com/kopja3/portfolio/blob/main/teacher.md)
 
 
 ---
