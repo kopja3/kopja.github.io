@@ -18,7 +18,9 @@ Teaching skills:
 
 ---
 ### Publications
-<img src="pdf/Text_Recognition_of_Cardboard_Pharmaceutical_Packages_by_Utilizing_Machine_Vision.pdf"/>
+<img src="pdf/Text_Recognition_of_Cardboard_Pharmaceutical_Packages_by_Utilizing_Machine_Vision.pdf?raw=true"/>
+<img src="pdf/Recent_advancements_in_machine_vision_methods_for_product_code_recognition.pdf?raw=true"/>
+<img src="pdf/A_novel_deep_learning_method_for_recognizing_texts_printed_with_multiple_different_printing_methods.pdf?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
