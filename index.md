@@ -35,7 +35,7 @@ Teaching skills:
 
 ### Management Skills Global Automation Industry 
 - [SAPImplementationLead](SAPImplementationLead.md)
-- [OEM Camera System WIS Production, Applications, Techical Support](WISLeadEngineer.md)
+- [OEM Camera System WIS Production, Applications, Techical Support] (https://github.com/kopja3/portfolio/blob/main/WISLeadEngineer.md)
 - [Camera System WIS Delivery Manager](WISDeliveryManager.md)
 - [Project 5 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
