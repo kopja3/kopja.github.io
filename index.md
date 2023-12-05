@@ -29,12 +29,12 @@ Teaching skills:
 ### Global Automation Solutions Developer
 - [Elemental Analyzer Turn Key Development Project Manager](ProjectModelDevelopmentProjectManager.md/)
 - [Machine Vision R&D ](MachineVisionRD.md)
-- [SensorDevelopmentSpecialist.md](SensorDevelopmentSpecialist.md)
+- [SensorDevelopmentSpecialist](SensorDevelopmentSpecialist.md)
 
 ---
 
 ### Management Skills Global Automation Industry 
-- [SAPImplementationLead.md](SAPImplementationLead.md)
+- [SAPImplementationLead](SAPImplementationLead.md)
 - [OEM Camera System WIS Production, Applications, Techical Support](WISLeadEngineer.md)
 - [Camera System WIS Delivery Manager](WISDeliveryManager.md)
 - [Project 5 Title](http://example.com/)
