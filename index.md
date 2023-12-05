@@ -9,9 +9,9 @@ These publications present innovative methods I developed, solving previously un
 [My Dissertation](/sample_page)
 <img src="images/dissertation2(1).jpg?raw=true"/>
 
-Research skills:
+### Research skills:
 
-Teaching skills:
+#### Teaching skills:
 - [Trainer: Global Automation Industry ](https://github.com/kopja3/portfolio/blob/main/ACTTrainer.md)
 - [Teacher and mentor at the University](https://github.com/kopja3/portfolio/blob/main/teacher.md)
 
