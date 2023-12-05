@@ -44,7 +44,7 @@ Teaching skills:
 
 ---
 ### Technical Support Skills Global Automation Industry 
-- [Outotec ACT Technical Support Engineer](ACTTechnicalSupportEngineer.md)
+- [Outotec ACT Technical Support Engineer](pdf/ACTTechnicalSupportEngineer.md .url)
 - [Camera System WIS Field Support Engineer](WISFieldSupportEngineer.md)
 - [Project 5 Title](http://example.com/)
 
