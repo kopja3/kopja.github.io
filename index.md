@@ -11,6 +11,8 @@ These publications present innovative methods I developed, solving previously un
 </a>
 
 #### Research skills:
+- [Master of Software Engineering, Machine Vision Specialist](https://github.com/kopja3/portfolio/blob/main/research_skills.md)
+
 
 ---
 
