@@ -16,12 +16,15 @@ These publications present innovative methods I developed, solving previously un
 
 ---
 
+
 #### Teaching skills:
 - [Trainer: Global Automation Industry ](https://github.com/kopja3/portfolio/blob/main/ACTTrainer.md)
 - [Teacher and mentor at the University](https://github.com/kopja3/portfolio/blob/main/teacher.md)
 
 
 ---
+
+
 #### Publications
 
 - [Text Recognition of Cardboard Pharmaceutical Packages by Utilizing Machine Vision - Publisher: Electronic Imaging](pdf/Text_Recognition_of_Cardboard_Pharmaceutical_Packages_by_Utilizing_Machine_Vision.pdf)
@@ -31,6 +34,7 @@ These publications present innovative methods I developed, solving previously un
 - [A Novel Deep Learning Method for Recognizing Texts Printed with Multiple Different Printing Methods - Publisher: F1000 Forum](pdf/A_novel_deep_learning_method_for_recognizing_texts_printed_with_multiple_different_printing_methods.pdf)
 
 ---
+
 #### Community Engagement and Leadership Skills:
 
 - [Societal and University Community Merits](https://github.com/kopja3/portfolio/blob/main/Social_University_community_merits.md)
@@ -63,9 +67,14 @@ These publications present innovative methods I developed, solving previously un
 
 ---
 
+### Values That Guide My Work
+- [Working Values](https://github.com/kopja3/portfolio/blob/main/myWorkingValues.md)
+
+---
+
 #### Skills I Have in List Format
 - [Skills](https://github.com/kopja3/portfolio/blob/main/taidot.md)
 
-
+---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
