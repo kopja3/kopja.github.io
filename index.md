@@ -72,6 +72,11 @@ These publications present innovative methods I developed, solving previously un
 
 ---
 
+### My free time
+- [Exploring My Hobbies](https://github.com/kopja3/portfolio/blob/main/hobbies.md)
+
+---
+
 #### Skills I Have in List Format
 - [Skills](https://github.com/kopja3/portfolio/blob/main/taidot.md)
 
