@@ -4,9 +4,10 @@
 
 ### Researcher: 
 #### High-Quality Publication Skills: 
-I have authored three high-quality publications as the lead author, all related to my dissertation topic. 
-These publications present innovative methods I developed, solving previously unsolved problems and advancing the field significantly. The methods are a result of dedicated work and have gained recognition from the research community.
-
+#### I have authored three high-quality publications as the lead author, all related to my dissertation topic. 
+#### These publications present innovative methods I developed, solving previously unsolved problems and advancing the field significantly. 
+#### The methods are a result of dedicated work and have gained recognition from the research community.
+#### _"Jarmo Koponen has extensive work experience in the industry, which has clearly been reflected as an above-average level of expertise and the ability to conceptualize and construct large-scale entities."_-Prof. P. Toivanen, the supervisor of my dissertation work, stated on 10.02.2021.
 ---
 
 
