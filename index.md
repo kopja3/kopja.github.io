@@ -32,7 +32,7 @@ These publications present innovative methods I developed, solving previously un
 ---
 
 
-#### Publications
+#### Publications:
 
 - [Text Recognition of Cardboard Pharmaceutical Packages by Utilizing Machine Vision - Publisher: Electronic Imaging](pdf/Text_Recognition_of_Cardboard_Pharmaceutical_Packages_by_Utilizing_Machine_Vision.pdf)
   
@@ -48,43 +48,43 @@ These publications present innovative methods I developed, solving previously un
 
 ---
 
-#### Global Automation Solutions Developer
+#### Global Automation Solutions Developer:
 - [Elemental Analyzer Turn Key Development Project Manager](https://github.com/kopja3/portfolio/blob/main/ProjectModelDevelopmentProjectManager.md/)
 - [Machine Vision R&D ](https://github.com/kopja3/portfolio/blob/main/MachineVisionRD.md)
 - [SensorDevelopmentSpecialist](https://github.com/kopja3/portfolio/blob/main/SensorDevelopmentSpecialist.md)
 
 ---
 
-#### Management Skills Global Automation Industry 
+#### Management Skills Global Automation Industry: 
 - [SAPImplementationLead](https://github.com/kopja3/portfolio/blob/main/SAPImplementationLead.md)
 - [OEM Camera System WIS Production, Applications, Technical Support](https://github.com/kopja3/portfolio/blob/main/WISLeadEngineer.md)
 - [Camera System WIS Delivery Manager](https://github.com/kopja3/portfolio/blob/main/WISDeliveryManager.md)
 
 ---
 
-#### Technical Support Skills Global Automation Industry 
+#### Technical Support Skills Global Automation Industry: 
 - [Outotec ACT Technical Support Engineer](https://github.com/kopja3/portfolio/blob/main/ACTTechnicalSupportEngineer.md)
 - [Camera System WIS Field Support Engineer](https://github.com/kopja3/portfolio/blob/main/WISFieldSupportEngineer.md)
 
 ---
 
-#### Electrical Designer & Electrician Skills 
+#### Electrical Designer & Electrician Skills: 
 - [Camera System WIS Electrical Designer](https://github.com/kopja3/portfolio/blob/main/WISelectricalDesigner.md)
 - [Electrician](https://github.com/kopja3/portfolio/blob/main/Electrician.md)
 
 ---
 
-#### Values That Guide My Work
+#### Values That Guide My Work:
 - [Working Values](https://github.com/kopja3/portfolio/blob/main/myWorkingValues.md)
 
 ---
 
-#### My free time
+#### My free time:
 - [Exploring My Hobbies](https://github.com/kopja3/portfolio/blob/main/hobbies.md)
 
 ---
 
-#### Skills I Have in List Format
+#### Skills I Have in List Format:
 - [Skills](https://github.com/kopja3/portfolio/blob/main/taidot.md)
 
 ---
