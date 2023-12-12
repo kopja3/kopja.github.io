@@ -67,12 +67,12 @@ These publications present innovative methods I developed, solving previously un
 
 ---
 
-### Values That Guide My Work
+#### Values That Guide My Work
 - [Working Values](https://github.com/kopja3/portfolio/blob/main/myWorkingValues.md)
 
 ---
 
-### My free time
+#### My free time
 - [Exploring My Hobbies](https://github.com/kopja3/portfolio/blob/main/hobbies.md)
 
 ---
