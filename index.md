@@ -6,9 +6,16 @@
 #### High-Quality Publication Skills: 
 I have authored three high-quality publications as the lead author, all related to my dissertation topic. 
 These publications present innovative methods I developed, solving previously unsolved problems and advancing the field significantly. The methods are a result of dedicated work and have gained recognition from the research community.
+
+---
+
+
+
 <a href="images/dissertation2(1).jpg">
     <img src="images/dissertation2(1).jpg?raw=true" alt="My Dissertation" style="width:auto;max-width:80%;height:auto;">
 </a>
+
+---
 
 #### Research skills:
 - [Master of Software Engineering, Machine Vision Specialist](https://github.com/kopja3/portfolio/blob/main/research_skills.md)
