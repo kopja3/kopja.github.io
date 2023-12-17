@@ -11,7 +11,6 @@
 ---
 
 
-
 <a href="images/dissertation2(1).jpg">
     <img src="images/dissertation2(1).jpg?raw=true" alt="My Dissertation" style="width:auto;max-width:80%;height:auto;">
 </a>
