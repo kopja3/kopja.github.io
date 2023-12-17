@@ -1,7 +1,6 @@
 ## Portfolio
 
 ---
-
 ### Researcher: 
 #### High-Quality Publication Skills: 
 #### I have authored three high-quality publications as the lead author, all related to my dissertation topic. 
